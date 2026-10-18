@@ -1,0 +1,7 @@
+[
+  { "nom": "Clavier", "prix": 45 },
+  { "nom": "Souris", "prix": 25 },
+  { "nom": "Ecran 24 pouces", "prix": 350 },
+  { "nom": "Casque audio", "prix": 80 },
+  { "nom": "Webcam", "prix": 60 }
+]
